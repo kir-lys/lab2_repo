@@ -1,2 +1,2 @@
-# lab2_repo
+# Basis
 Python
